@@ -1,0 +1,45 @@
+Linear Algebra
+Book: “Linear Algebra and Its Applications” by Gilbert Strang
+Online Course: Khan Academy’s Linear Algebra
+Video Lectures: MIT OpenCourseWare - Linear Algebra
+Calculus
+Book: “Calculus: Early Transcendentals” by James Stewart
+Online Course: Coursera’s Calculus: Single Variable
+Video Lectures: Khan Academy’s Calculus
+Probability and Statistics
+Book: “Introduction to Probability” by Dimitri P. Bertsekas and John N. Tsitsiklis
+Online Course: Coursera’s Statistics with R
+Video Lectures: Khan Academy’s Probability and Statistics
+Discrete Mathematics
+Book: “Discrete Mathematics and Its Applications” by Kenneth H. Rosen
+Online Course: Coursera’s Discrete Mathematics
+Video Lectures: MIT OpenCourseWare - Mathematics for Computer Science
+Optimization
+Book: “Convex Optimization” by Stephen Boyd and Lieven Vandenberghe
+Online Course: Coursera’s Convex Optimization
+Video Lectures: Stanford Online - Convex Optimization
+Numerical Methods
+Book: “Numerical Methods for Engineers” by Steven C. Chapra and Raymond P. Canale
+Online Course: Coursera’s Numerical Methods for Engineers
+Video Lectures: MIT OpenCourseWare - Introduction to Numerical Methods
+
+Linear Algebra: Start here as it’s fundamental for understanding data structures and algorithms in machine learning.
+Resource: “Linear Algebra and Its Applications” by Gilbert Strang
+Online Course: Khan Academy’s Linear Algebra
+Calculus: Next, focus on calculus, especially differential and integral calculus, which are crucial for optimization in machine learning.
+Resource: “Calculus: Early Transcendentals” by James Stewart
+Online Course: Coursera’s Calculus: Single Variable
+Probability and Statistics: This is essential for data analysis and making inferences from data.
+Resource: “Introduction to Probability” by Dimitri P. Bertsekas and John N. Tsitsiklis
+Online Course: Coursera’s Statistics with R
+Discrete Mathematics: Important for understanding algorithms and data structures.
+Resource: “Discrete Mathematics and Its Applications” by Kenneth H. Rosen
+Online Course: Coursera’s Discrete Mathematics
+Optimization: Key for machine learning algorithms, especially for solving optimization problems.
+Resource: “Convex Optimization” by Stephen Boyd and Lieven Vandenberghe
+Online Course: Coursera’s Convex Optimization
+Numerical Methods: Finally, learn numerical methods for implementing algorithms that solve mathematical problems.
+Resource: “Numerical Methods for Engineers” by Steven C. Chapra and Raymond P. Canale
+Online Course: Coursera’s Numerical Methods for Engineers
+
+
